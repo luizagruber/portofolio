@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+#app{
+    background-color: rgb(156, 112, 228);
+}
+#games{
+    background-color: rgb(83, 121, 190);
+}
+#chatbot{
+    background-color: rgb(107, 201, 169);
+}
